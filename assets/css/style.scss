@@ -1,0 +1,8 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body > section.page-header > a.btn {
+    display: none;
+}
