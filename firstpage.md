@@ -1,1 +1,9 @@
-To będzie mój pierwszy wpis może zadziała
+---
+layout: default
+---
+
+## Welcome to another page
+
+_yay_
+
+[back](./)
