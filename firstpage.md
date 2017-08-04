@@ -2,7 +2,8 @@
 layout: default
 ---
 
-## Welcome to another page
+To jest moja stronka
+
 
 _yay_
 
