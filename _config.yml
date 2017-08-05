@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman 
 title: Blog o życiu w UK
 description: Zapraszam do czytania mojego bloga dla przyjaciół i rodziny o tym, jak mi się żyje w Zjednoczonym Królestwie
-permalink: none
+permalink: /:categories/:title/
