@@ -75,42 +75,5 @@ Simon nas nie powitał, bo zdaje się że pojechał na jakąś wycieczkę rowero
 
 Niewiele już tu gadać, poszłyśmy na spacer z mamą odprowadzić ciocię do domu (mieszka u Terry’ego, ale to już osobna, też ciekawa historia) a potem z powrotem i poszłyśmy spać.
 
-21 lipca
-
-Pobudka umiarkowanie wcześnie (10), potem mama ćwiczy skalpel, a ja postanawiam w duchu że od jutra też coś będę rano ćwiczyć. Schodzimy na dół zjeść tosty na śniadanie i smutek, bo za oknem deszcz. Jakoś przedpołudnie mi minęło na rozpakowywaniu się i ogarnianiu, jedzeniu, piciu herbatki i rozmowach z mamą, a także wylegiwaniu się na sofie. 
-Pani Anne ma tutaj, nie wiedzieć czemu, ogromną kolekcję pluszaków firmy Ty, wszystkie z metkami. Poniżej moi ulubieńcy, ale ta kolekcja serio jest ogromna, można utonąć w morzu pluszu:
-Tak, to są : (od lewej) leniwiec, lemur, gibon i na dole ptak kiwi :D
-
-Około 14 pojechałyśmy z Beth do miasta, na wycieczkę po charity shops.
-
-O co chodzi z charity shops?
-Bardzo ciekawa sprawa. Otóż u nas w Polsce mamy zatrzęsienie różnych sklepów z używaną odzieżą, diabli wiedzą skąd braną (złośliwi twierdzą, że z caritasowych kontenerów na ubrania). Ktoś sobie na tym zarabia, pewnie niespecjalnie duże pieniądze bo stan takich sklepów zawsze pozostawia wiele do życzenia i ogólnie klimat nie jest ciekawy, chociaż ceny i ciekawe zdobycze w lumpeksach zachęcają.
-
-Tymczasem w UK…
-Tutaj mamy Charity Shops. Bogaci ludzie przynoszą swoje zbędne rzeczy do takiego charity shopu. Ludzie tam je wyceniają, dziękują za ten podarek i wystawiają na sprzedaż. Dochód z czegoś takiego jest przekazywany na specjalny cel charytatywny. Tak wiec mamy Dog’s Trust, St. Michael’s Hospice , Cancer Research, British Heart Foundation i wiele innych instytucji, które w ten sposób zbierają pieniądze. Co więcej, w takich sklepach pracują wolontariusze - często są to osoby starsze, co jest dla mnie fantastycznym pomysłem na ich aktywizację, naprawdę konkretnym, albo studenci, którzy nie mają żadnego doświadczenia i w ten sposób je zdobywają. Charity Shopy, mimo posiadania używanych rzeczy, zwykle wyglądają naprawdę elegancko, jedne są droższe, drugie tańsze. Cudownie by było, gdyby w Polsce ta idea została zaszczepiona, bo ma same korzyści. I to wszystko wygląda sympatyczniej niż obskurne lumpeksy. Aha, no i oczywiście ludzie mający świadomość że idzie to na szczytny cel przynoszą rzeczy naprawdę dobrej jakości! Czasem całkiem nowe - przypuszczam że po to właśnie jest kolekcja pluszaków pani Anne, że trafi ona kiedyś do charity shopu.
-
-Wracając do dnia. Poszłyśmy do największego Charity shopu, który należał do St.Michael Hospice. Można tam nawet kupić używane meble, narzędzia, porcelanę, wszystko! ZNALAZŁAM NAWET CAŁKIEM NOWĄ LUTOWNICĘ. Kupiłabym ją gdyby nie to że miała wtyczkę dosamochodową. 
-
-Potem przeszłyśmy się po innych okolicznych sklepach oglądając rzeczy i załatwiając sprawunki, zgarnęłyśmy na zakupach w Sainsbury’s ciocię i kupiłyśmy piwo, na zdjęciu poniżej:
-
-TAK, TO JEST PIWO wbrew pozorom :D a zabutelkowane jak szampan, ale całkiem smaczne. Ciekawy też miałyśmy sposób na zamknięcie butelki , gdy wyciągnięty korek nijak się nie mieścił z powrotem. To profesjonalna gumowa zatyczka do butelki, żeby zachować jego świeżość (po prawej)
-
-
-Oczywiście jak jest deszcz, to na pewno gdzieś będzie jeszcze tęcza, a my miałyśmy nawet dwie - na zdjęciu nie widać tego niestety, ale ta pierwsza była niesamowicie intensywna, nie pamiętam kiedy ostatnio taką widziałam. 
-
-Tak wygląda Ross przed wieczorem, w lekkim deszczu. Wyjątkowo na zdjęciu nie ma charity shopu. 
-
-
-Po powrocie trzeba było zamknąć kury w kurniku, żeby jakiś lis nie spróbował ich tknąć (a tutaj takie rzeczy się zdarzają!). Bo właśnie, tutaj pets to nie tylko czarny kot Charlie i dwa duże psy(młodsza Jam i jej mama Kai) ale także stadko kur (7 sztuk, ponoć było 8 ale jednej się zmarło). Mają wypasiony nowoczesny kurnik i są niesamowicie śmieszne, jak tak sobie siedzą i gadają do siebie jedna przez drugą. Poniżej zdjęcie z ich tajnych obrad (widać jak jedna z dwóch siostrzyczek drugą dziobie w głowę, ponoć to ciągle robi ):
-
-
-
-A to budynek kurzego sejmu:
-
-I suczka Jam, jej mama wygląda podobnie, tylko jest siwa już bardzo:
-
-Kury to bardzo fajna sprawa, znoszą zazwyczaj dużo jajek (takie z prawdziwie wolnego wybiegu, bo za dnia to one hasają po całym ogródku) niemniej jednak oni je tutaj tak kochają, że nawet pomyśleć nie można o zrobieniu z nich rosołu ;)
-
-
 
 [back](./)
