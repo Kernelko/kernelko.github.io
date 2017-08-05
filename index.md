@@ -5,5 +5,5 @@ Jak pewnie wiecie, przeprowadziłam się do Wielkiej Brytanii. Ten blog ma na ce
 ![obrazek]({{ site.url }}/UKBlog/images/day1-2.jpg)
 
 {% for post in site.posts %}
-[{{ post.url }}]({{ post.title }})
+[{{ post.title }}]({{ post.url }})
 {% endfor %}
