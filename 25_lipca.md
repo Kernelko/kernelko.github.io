@@ -1,0 +1,103 @@
+---
+layout: default
+---
+
+25 lipca, wtorek
+
+Mail do CUBRICa napisany, do tego gościa z university hospital nie, bo nie zajmuje się tym co ja, tylko biomechaniką. Niby ciekawe, ale nie mam absolutnie żadnych w tym temacie skilli czy doświadczeń, żeby mnie ktokolwiek przyjął na staż w biomechanice. Generalnie przeglądam programy stażowe w healthcare i to jest dość bogate i skomplikowane ale aplikowanie jest dość dziwne i niejasne i w ogóle chyba mało jest miejsc na razie i zupełnie tego nie ogarniam. 
+W międzyczasie uzupełniam dziennik i puściłam też maila do jednego baru z tapas (mniam mniam).  
+Kiedy tak sobie siedzę, wpadła pokojówka i wymieniła mi śmieci (niezłe sprzątanie) i powiedziałam jej o zimnej wodzie (tak, nie ma ciepłej wody, niby hostel taki fajny ale jednak brak ciepłej wody przeszkadza). 
+Z godzinę później słyszę próby otworzenia drzwi, chyba moich. Ktoś wsadza klucz (kartę) do czytnika, pik pik pik, naciskanie klamki, nic. Cały schemat powtarzany od początku, ostatecznie ktoś desperacko szarpie za klamkę,jakby to miało pomóc,  jakieś rozmowy i w końcu pewnie pokojówka otwiera pokój jakimś murzynkom (a to zaskoczenie :p )  - mame i młoda murzynka, trochę młodsza odemnie. No trudno, a już myślałam że drugą noc będę mieć cały pokój dla siebie. Mam nadzieję że chociaż wodę naprawią żeby była ciepła :( 
+Chwilę później przyszedł jakiś miły młody pan który sprawdził że akurat zaczęła woda działać. Hmm. Czyli po prostu należy się myć o odpowiednich porach bo tak to nie nadążają z ogrzewaniem…
+Ruszyłam się wreszcie żeby iść do miasta. 
+
+
+
+
+
+Smoki, wszędzie walijskie smoki.
+
+
+
+
+Dzisiaj musiałam pójść do Lloyds Banku, załatwić kilka spraw z moim kontem brytyjskim. Murzyn który mnie obsługiwał był dość uparty i jakoś strasznie mu nie pasowało to, że jak podaję the Coach House, to w nawiasie ma być Pope, bo jak nie będzie to moja karta i PIN trafią do kurde, losowo wybranego Coach House na tej ulicy. Na szczęście udało mi się go przekonać :) ale nie był specjalnie miły. 
+
+
+
+
+
+
+
+Jakby ktoś nie wiedział, to “piękno” po walijsku będzie “HARDDWCH”, poniżej dowód (szyld Boots):
+
+
+
+
+
+
+
+
+
+W międzyczasie udałam się też na zakupy celem znalezienia lunchu i zaszalałam : Meal Deal, składający się z buły z kurczakiem, Ginger Jamaican Beer i paczki jedynych słusznych chipsów - SALT & VINEGAR (only real british flavour), dodatkowo jeszcze więcej Ginger Beera, makaron, pesto, pomidorki i szpinak oraz zupa z puszki, tym razem minestrone. Zabójcza kwota £8.50 ! Ale tego makaronu i pesto to starczy chyba na trzy posiłki. 
+
+Zaczęłam się więc rozglądać za jakimś miłym miejscem na zjedzenie lunchu, bardzo późnego lunchu, w sumie z godziny to bardziej dinner, ale ilości to nadal lunch :D
+
+Jakoś tak tuptając w przybliżeniu na południe, dotarłam do czegoś dużego i wyglądającego jak stadion. Okazało się że jest to Millenium Stadium, stadion narodowy Walii. To ten na którym odbywał finał tegorocznej Ligi Mistrzów! Jest ogroomny i wygląda całkiem ładnie, a poza tym leży nad rzeką i ma ładny deptak wokół. Popatrzcie na zdjęcia:
+
+Przerąbane w tej Walii, koszty wszystkiego dwa razy większe, bo trzeba po dwie tabliczki do wszystkiego robić :D
+
+
+
+
+
+Na tym zdjęciu powyżej widać Bierkeller  - bar, do którego idę jutro na interview. Zupełnie przypadkiem okazało się, że jest właśnie tutaj. Serio, wcześniej nawet nie sprawdzałam gdzie on może być, wiedziałam tylko że gdzieś w centrum. 
+
+
+Kolejna lekcja walijskiego: Caution = Gofal ! A poniżej stadion i deptak z innej strony i kilka selfików, bo coś ostatnio ich mało ;)
+
+
+
+
+Są nawet pchacze z małymi barkami, ciekawe co się u nich transportuje wodą:
+
+
+
+
+Mewa, która miała ochotę na mój lunch, który jest na zdjęciu poniżej (mewy tutaj się totalnie ludzi nie boją, nawet jak się machnie na nie ręką to ignorują to zupełnie):
+
+
+
+Jeszcze jedna ciekawostka: na tym deptaku obok stadionu na ziemi były różne takie mozaiki z różnymi krajami. Nie mam pojęcia kto te kraje wybierał, wiem że były zupełnie randomowe- zarówno jakieś Australie, USA, Hiszpanie, czy Cymru:
+
+
+Jak i FIDŻI, jakieś randomowe kraje z Afryki, Nowa Zelandia, Rumunia oraz “Other nations”, czyli także Polska :D
+
+Chyba tu chodzi o reprezentacje w rugby, bo stadion został wybudowany właśnie na mistrzostwa rugby jakieś w bodajże 1997 roku. 
+
+Czas wracać do domu, po drodze jeszcze trochę klimatu Cardiff, dworzec centralny:
+
+ 	
+
+Dziwny mural “Love Your Master” - nie wiem jak to interpretować. Jakiś pomysł?
+
+
+I ostatnia lekcja walijskiego: SLOW = ARAF . Prawie jakby ktoś pisał to od tyłu. No dobra, zupełnie nie, ale tak mi się kojarzy. 
+Och, murzynki właśnie wróciły i WŁĄCZYŁY TELEWIZOR. Serio. Nie rozumiem, po cholerę w hostelowych pokojach telewizory?? Ktoś zamierza seriale na tym oglądać? 
+Jak większość wie, jestem z tych których irytuje włączony telewizor, który sobie po prostu leci i robi hałas. Brrrr. To najbardziej zbędna rzecz w pokoju i nie wiem w ogóle czemu oni to tutaj utrzymują. Zamiast telewizora poproszę stały dostęp do ciepłej wody?
+Mniej prądu się zużyje i w ogóle mniejszego raka dostanę. Brrr.
+21 i nadal TV włączone. Nawet go nie oglądają, tylko jedna poszła się myć a druga siedzi w telefonie. LUDZIE. Zaraz sobie pójdę robić jedzenie i im wyłączę TV a co (bo zabiorę kartę która włącza prąd, a jest mi potrzebna do otworzenia kuchni). 
+
+Ostatecznie zeszłam do kuchni zrobić sobie jedzenie z moich dzisiejszych zakupów (uprzedziłam murzynki żeby wsadziły swoją kartę żeby im prąd działał, nie jestem taka złośliwa tak naprawdę).
+
+ <--- Oto ono:
+
+Makaron pesto z pomidorami i świeżym szpinakiem, razzz!
+
+A mam jeszcze składników na przynajmniej dwie-trzy takie porcje! Za kilka dni będę mieć chyba dosyć pesto XD Tak to jest jak się robi zakupy po taniości. 60p za makaron, 42p za szpinak, 42p za pomidory i ogromna suma, bo cały funt -za słoiczek pesto. 
+
+
+
+Siedzę teraz na dole w takim pomieszczeniu ogólnym, gdzie są stoliki, sofy, bar, recepcja i tak dalej, bo jest już 22 i nie chce moim murzynkom przeszkadzać w oglądaniu telewizji. 
+Jest tutaj jakaś brytyjska rodzinka z dwiema małymi dziewczynkami - z 8-9 lat? Nie mam pojęcia, ale to ten wiek kiedy są małe i urocze. I one chyba też piszą pamiętnik :D Bo jedna siedziała koło mnie i pisała coś na laptopie a druga cały czas narzekała “Hej, Hanna, skończyłaś? - Prawie, prawie! Nie kopiuj ode mnie!” No i teraz przyszła druga (chyba Emily) i też opisuje swój dzień na wakacjach :)
+
+[back](./)

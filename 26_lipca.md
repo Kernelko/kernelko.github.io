@@ -1,0 +1,17 @@
+---
+layout: default
+---
+22 lipca
+
+Wreszcie dzisiaj: na śniadanie moje ulubione crumpets, coś pomiędzy grzanką a tostem, ale nie do końca, dosyć puchate, można tu znaleźć na półkach z chlebem i tostami. Oczywiście, sprzedają też crumpets bezglutenowe!
+Na zdjęciu zwykłe crumpets z mozzarellą, świeżutką bazylią z ogródka i pomidorkami. 
+Najlepiej jednak smakują, moim zdaniem, z fasolką z puszki. Myślę że dzisiaj wieczorem nadejdzie czas na taki posiłek. Przecież to takie brytyjskie. O! Właśnie sobie przypomniałam, że jestem tutaj już TRZECI DZIEŃ a jeszcze nie zjadłam bekonu!
+Aha, no i zgodnie z moim wczorajszym postanowieniem, dzisiaj rano ćwiczyłam jogę przez 20 minut!
+
+
+Dopisek wieczorny: tradycji stało się zadość, bekon został spożyty na pizzy, tak świetnej pizzy dawno nie jadłam (i wcale nie mówię że to moja zasługa bo ja robiłam ciasto). Niewiele na niej było, ale myślę że to kwestia świeżych ziół i może tego bekonu? Albo cheddara? Nie wspominałam jeszcze, ale uwielbiam brytyjski, albo walijski cheddar, to coś wspaniałego! Niby taki twardy, ale jednak rozpływa się w ustach i jest dość słony. 
+
+
+
+
+[back](./)
