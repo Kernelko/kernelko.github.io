@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Liverpool i dużo mew
 ---
 
 Pobudka o 6 rano. Lot jak to lot, ale lądowanie! Liverpool leży nad zatoką i ląduje się nad wodą prawie, co wygląda bardzo efektownie i cudownie, jeśli ktoś kocha wodę/morze, jak ja.
