@@ -4,7 +4,7 @@ layout: default
 
 Pobudka o 6 rano. Lot jak to lot, ale lądowanie! Liverpool leży nad zatoką i ląduje się nad wodą prawie, co wygląda bardzo efektownie i cudownie, jeśli ktoś kocha wodę/morze, jak ja.
 Z lotniska jazda autobusem do centrum, 40 min, obowiązkowe selfie, obowiązkowo na górnym piętrze autobusu i oczywiście na samym przodzie:
-
+(day1(1).jpg)
 Po drodze przez urocze, zielone przedmieścia, z małymi domkami i starymi kościółkami,  mijaliśmy dla przykładu panią policjantkę która miło machała do kierowcy. Taka pani która pilnuje porządku i wszyscy ją lubią i szanują za to co robi. 
 
 Samo centrum sympatyczne, niezbyt przytłaczające, wszędzie mewy, deptaki, pianina, mewy, jakiś młody chłopak gra muzykę z piratów z karaibów na jednym z pianin, więcej mew..
