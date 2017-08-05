@@ -3,6 +3,12 @@
 
 @import "{{ site.theme }}";
 
+// hide the "view on GitHub" button
 body > section.page-header > a.btn {
     display: none;
+}
+
+// justify text
+.main-content p {
+    text-align: justify;
 }
