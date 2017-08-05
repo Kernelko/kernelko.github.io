@@ -26,6 +26,9 @@
       {{ content }}
 
       <footer class="site-footer">
+        {% if page.previous.url or page.next.url %}
+          <a href="/">Powrót</a>
+        {% endif %}
         <div class="pagination">
           {% if page.previous.url %}
             <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
