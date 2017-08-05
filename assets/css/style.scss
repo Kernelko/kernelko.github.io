@@ -12,3 +12,8 @@ body > section.page-header > a.btn {
 .main-content p {
     text-align: justify;
 }
+
+// fix image rotation (experimental)
+img {
+    image-orientation: from-image;
+}
