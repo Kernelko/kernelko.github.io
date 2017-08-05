@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Niedzielnie wycieczki
 ---
 23 lipca, niedziela
 
