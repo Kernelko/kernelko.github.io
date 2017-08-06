@@ -17,3 +17,8 @@ body > section.page-header > a.btn {
 img {
     image-orientation: from-image;
 }
+
+// align the next post link to the right
+.pagination .next {
+    float: right;
+}
