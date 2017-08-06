@@ -26,18 +26,15 @@
       {{ content }}
 
       <footer class="site-footer">
-        <!-- Pagination links -->
+        {% if page.previous.url or page.next.url %}
+          <a href="/">Powrót</a>
+        {% endif %}
         <div class="pagination">
-          {% if paginator.previous_page %}
-            <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
-          {% else %}
-            <span class="previous">Previous</span>
+          {% if page.previous.url %}
+            <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
           {% endif %}
-          <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-          {% if paginator.next_page %}
-            <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-          {% else %}
-            <span class="next ">Next</span>
+          {% if page.next.url %}
+            <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
           {% endif %}
         </div>
         <span class="site-footer-credits">View source on <a href="{{ site.github.repository_url }}">GitHub</a>.</span>           
