@@ -24,11 +24,11 @@
 
     <section class="main-content">
       {{ content }}
+      {% if page.previous.url or page.next.url %}
+        <p><a href="/">Wróć na główną</a></p>
+      {% endif %}
 
       <footer class="site-footer">
-        {% if page.previous.url or page.next.url %}
-          <a href="/">Powrót</a>
-        {% endif %}
         <div class="pagination">
           {% if page.previous.url %}
             <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
@@ -37,7 +37,7 @@
             <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
           {% endif %}
         </div>
-        <span class="site-footer-credits">View source on <a href="{{ site.github.repository_url }}">GitHub</a>.</span>           
+        <p class="site-footer-credits">View source on <a href="{{ site.github.repository_url }}">GitHub</a>.</span>           
       </footer>
     </section>
 
