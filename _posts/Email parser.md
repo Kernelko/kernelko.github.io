@@ -1,0 +1,97 @@
+---
+layout: default
+title: Parsing the email from mbox file
+---
+
+### Goal of the project
+
+I have an .mbox file from backup on Gmail and I would like to make use of it. What can I do to make use of it?
+
+1. Clean it = remove all promotional emails and general trash
+2. Store it somewhere = so that it's easily accesible, potentially a basic database. 
+3. Do some basic data analysis based on frequency of the emails received and sent, or speed of reply. 
+
+### Planning
+
+Data analysis is most interesting, but least urgent. The most urgent part is to clean and store. I think I will make 2 copies of the data, one for urgent points (1 and 2) and one for not so urgent but interesting (3).
+
+### Importing to the database
+
+## Install the database 
+
+We will use basic local MongoDB database
+
+1. Go to website of Mongo
+2. Download windows install
+3. takesages.jpg
+
+## Import the data to the mongodb database
+
+It seems like it's not so easy or straightforward to parse mbox data into the database. 
+What should we dooo?
+
+I think I willl import it to pandas and work from there
+
+## Import the data into pandas
+
+### import the data
+
+```python
+%pylab inline
+import mailbox
+import pandas as pd
+
+mb = mailbox.mbox('data.mbox')
+```
+
+### parse it so that it includes only particular columns i need
+
+```python
+keys = ['Date', 'From', 'To', 'Subject', 'Message-ID']
+message_list = []
+
+for message in mb.itervalues():
+    dmessage = dict(message.items())
+    message_list.append({key:dmessage[key] if key in dmessage.keys() else '' for key in keys})
+
+print(len(message_list), 'messages')
+message_list[:3]
+
+```
+
+### view what i have extracted
+
+```python
+
+messages = pd.DataFrame(message_list)
+messages.index = messages['Date'].apply(lambda x: pd.to_datetime(x, errors='coerce'))
+messages.drop(['Date'], axis=1, inplace=True)
+print(messages.shape)
+messages.head()
+```
+
+### extract only unique emails 
+
+emails = messages.From.unique()
+
+### display extracted emails and not the name 
+
+also removes the indeedmail.com bc these are old recruitment emails we don't care about
+
+```python
+import re
+contacts = []
+for address in emails:
+    m = re.search('<(.+?)>', address)
+    if m:
+        found = m.group(1)
+        if 'indeedemail.com' not in found:
+            if found not in contacts:
+                contacts.append(found)
+```
+
+At this point I managed to extract emails that I may need that were deep in the data. 
+
+
+
+[back](./)
