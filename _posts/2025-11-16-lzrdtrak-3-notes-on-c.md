@@ -1,0 +1,341 @@
+---
+layout: default
+title: lzrdtrak - notes on C
+---
+
+# Background
+
+I'm just a fake programmer. I didn't study computer science and at uni the only thing we did is we programmed microchips in assembly and maybe once in C. I did have these classes, I SOMEHOW passed them, don't remember sheet, it was 10 years ago.
+
+These days I really am upset about it, and I really wished I paid more attention to it, but back in a day I don't think I understood anything. 
+
+So that's the background of today's post: some things in C that I noticed when I saw a C programme (see previous post on generating  dummy data) while being a non educated person. Absolutely obvious stuff to people who are actual computer scientists.
+
+
+
+# Pointers xdxd
+
+Of course. How else would you start a blog post themed "stuff in C I didn't understand" if it wasn't with damn POINTERS. This thing that took me a loooong while to understand, but after a couple of attempts it finally clicked (I think). 
+
+(Spoiler alert: I was wrong, I realised it when I was writing this post). 
+
+Basically, let's say you want to define a function to increment your integers.
+
+In Python, there are built-in things of course, but if you were to define it yourself it would be like this:
+
+```
+def add_one(x:int)->int:
+	return x + 1
+```
+
+I guess? notice how I've been a good girl and I did the type annotations? I hate type annotation in Python to be honest (any other language it's great). I know it helps and it's better this way but for some reason it annoys me. It's like not a Python anymore. 
+
+Anyway, you use this function like this:
+
+> print(add_one(3))
+> 4
+
+All right. Now, how would we implement this in C?
+
+That's the thing. We really have two options (Whoaaa)
+
+1) The adding will be done to numbers sort of "locally" 
+
+
+
+```
+void add_one(int x) {
+	x = x+1;
+}
+```
+
+2) The adding will be done to numbers in actual memory
+
+
+```
+void add_one_pointer(int *x){
+	*x= *x + 1
+}
+```
+
+They look the same bro?
+
+Yes, but they work differently thanks to this lil asterisk *. 
+
+
+When I define a variable without this asterisk:
+
+> int b = 2;
+
+It means that b stores the value of 2, but not the address where the 2 is stored, just the value; 
+
+but if I say
+
+> int *ptr;
+
+I have defined a new variable called ptr which is a pointer to an actual address in memory where something will be stored
+
+Now, let's store something there, maybe the address of b?
+
+> ptr = &b;
+
+so that means, the ptr will now store the address of that 2.
+
+
+```
+#include <stdio.h>
+
+int main(){
+    int b = 2;
+    int *ptr;
+    ptr = &b;
+    printf("Address stored in ptr: %p\n", (void*)ptr);
+    printf("Value stored at that addres %d\n", *ptr);
+    *ptr = 5; 
+    printf("Value stored at that addres %d\n", *ptr);
+    return 0;
+}
+
+```
+
+So if you run this, this should show first that 2 is stored at some address in memory and then that we store there 5 instead;
+
+Here's a catch though. I was thinking:
+
+"Well if b is just a local definition of 2, then if I do"
+
+> b = b+1
+
+then the ptr should still equal to 2 right??
+
+WRONG. 
+
+That's where I got it wrong. "b is just a local definition of 2". It's not. When we say b=2, we do allocate memory for 2. 
+
+Let's try that once again:
+
+
+```
+int b = 2;           // Memory location has value: 2
+int *ptr;
+ptr = &b;            // ptr now "knows" where b lives
+
+b = b + 1;           // Access through 'b': value becomes 3
+printf("%d", *ptr);  // Access through '*ptr': also shows 3!
+
+*ptr = 5;            // Access through '*ptr': value becomes 5  
+printf("%d", b);     // Access through 'b': also shows 5!
+```
+
+So, what happens is multiple variables (ptr, b) all point to the same thing; if I change that thing through b, ptr would also show the change. Completely opposite to what I was thinking. Big brain stuff for my 2 neurons. 
+
+so what if I wanted to have independent variables?
+
+well in that case my code would look like this:
+
+```
+int main(){
+    int b = 2;
+    int copy_b = b;
+    int *ptr;
+    ptr = &copy_b;
+    b = b+1;
+    printf("Address stored in ptr: %p\n", (void*)ptr);
+    printf("Value stored at that addres %d\n", *ptr);
+    *ptr = 5; 
+    printf("Value stored at that addres %d\n", *ptr);
+    return 0;
+}
+```
+
+so I have variable b, and then I have a copy of it - copy_b. Then I update the b to be equal to 3, but copy_b stays the same (equal to 2). Then I update the copy_b through ptr and set it to 5; but the b variable is still 3.
+
+look at the video here:
+
+(here video will be)
+
+Oooof. Ok. I guess it makes sense but I am not sure if it permanently clicked in my brain. 
+
+# Other easier comments on C
+
+## Return code
+
+There is this very neat thing is C to tell us, whether we succeded or not: return code! Often shortened as "rc". This is the variable where we store whether we messed up or not.
+
+Boils down to:
+
+- rc = 1 it means there was an error
+- rc = 0 nothing broke
+
+Sometimes there is even no variable defined, it just returns 0 - like in the example above. 
+Which means, that the main() function returns always an integer, which can be 1 or 0. Simple. Neat. Makes sense. 
+
+## Function signatures 
+
+So we are using a function there like sqlite3_exec:
+
+> sqlite3_exec(db, sql, 0, 0, &err_msg);
+
+
+but we pass many zeros to it. Why?
+
+Well the function signature is:
+
+> sqlite3_exec(db, sql, callback, callback_arg, error_message);
+
+We sort of tell the function what we want to have returned. We don't need a callback function, nor it's arguments so we pass 0 in there.
+
+## Forming strings 
+
+There is this nice lil thing
+
+> char insert_sql[256]
+
+And I was wondering what's this about. Basically, because later we need to send a string to exec function to execute some command in the db, we need to form this string, but it might take some space so we need to book it. We estimate we need 256 characters. It's called a string buffer.
+
+now we need to form this string using the "string print formatted" function
+
+> snprintf(insert_sql, sizeof(insert_sql), "INSERT INTO readings VALUES (%ld, %.1f, %.1f);", timestamp, temp, humidity);")
+
+It's like printf, but writes to a string instead of stdout. 
+
+First argument: where to write
+Second argument: max size (prevents buffer overflow)
+Third argument: format string
+
+## Memory
+
+Every time we ran ANY sort of programme, we allocate some bits of memory to some variables. Very often, these variables get used once at the begining and then get completely unused, but still take over the memory; This is called *memory leak*. 
+If the programme runs for a while and has plenty of leaks, eventually the whole memory will be used and the programme will crash.
+
+Now in many languages, there is something called "garbage collector". This is a thing that goes through the programme and finds those unused variables and frees up the memory. Apparently in Python it's making it slower. 
+
+Now in C, there is no garbage collector. You needto be very concious of memory, and free it up explcitly as you go. That's why we do things like:
+
+> sqlite3_free(err_msg);
+
+Because once we no longer need that variable, we can get rid of it. Note that `sqlite3_free()` is specifically for memory allocated by SQLite. 
+
+For general C memory allocated with `malloc()`, we use `free()`.
+
+Clean and beautiful.
+
+## Libraries
+
+Now this is where it gets funny. In Python, you'd just do
+
+> pip install numpy
+
+to install the package, and then this:
+
+> import numpy as np
+
+to import it and use it in the code.
+
+What happens is that installing the package puts it's source code somewhere - if you're not a menace, the libraru code goes into your venv/bin/lib. 
+
+And now Python runtime (whatever the heck that means) finds and loads them automatically.
+
+
+Now, in C this is a **completely different** story
+
+C doesn't have a runtime
+
+What happens is that during *compile*, the library declarations like this
+
+> #include <sqlite3.h>
+
+sort of promise that there will be some code that contains these instructions, but it doesn't really check if that code exists yet. 
+
+Now when we have the proper machine instructions and we run the code, that's when we link the actual libraries instructions, like this:
+
+> gcc program.c -lsqlite3
+
+The `-l` flag says go find lisbqlite3.so and include its compiled code.
+
+Now where these libraries live:
+
+- `/usr/lib` for actual library files (libsqlite3.so)
+- `/usr/include/` for the header files (sqlite3.h) 
+
+Btw, if you check that `/usr/include/sqlite3.h` you'll see those headers.
+How they are different from actual code, I don't know
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[back](./)
